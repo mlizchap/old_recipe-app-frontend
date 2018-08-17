@@ -1,0 +1,24 @@
+.header {
+    /* background-color: #fffee4; */
+    /* font-family: 'Luckiest Guy', cursive; */
+    font-family: 'Abril Fatface', cursive;
+    background-color: #2f4d7e;
+    text-align: center;
+    font-size: 15pt;
+    letter-spacing: .1em;
+}
+
+.header h3 {
+    /* text-align: right; */
+    margin-top: 0;
+    color: white;
+    font-size: 26pt;
+    border-radius: 3px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* .header a:hover {
+
+} */
+

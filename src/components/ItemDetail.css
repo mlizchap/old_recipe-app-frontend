@@ -1,0 +1,65 @@
+.itemDetail {
+    margin-top: 0;
+    padding-top: 0;
+}
+.itemDetail h2 {
+    font-size: 26pt;
+    font-family: 'Abril Fatface', cursive;
+    letter-spacing: .04em;
+}
+
+.detailTitle {
+    margin-top: 0;
+}
+.backBtnDiv {
+    margin-top: 0;
+    /* background-color: #2f4d7e; */
+    padding: 0;
+    text-align: left;
+    padding-left: 5%;
+}
+
+.backBtnDiv a {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+.itemDetail h3 {
+    font-family: 'Abril Fatface', cursive;
+    margin-bottom: 0;
+    letter-spacing: .04em;
+}
+
+.itemDetail p {
+    margin-top: 8px;
+}
+
+.itemDetail {
+    color: #2f4d7e;
+}
+
+.ingred {
+    margin: 1px;
+    /* background-color: pink; */
+}
+
+.itemDetail button {
+    background-color: #f3c0c7;
+    color: #2f4d7e;
+}
+
+.itemDetail button:hover {
+    background-color: #f8dbdf;
+}
+
+.description {
+    margin-top: 50px;
+    width: 60%;
+    margin-right: auto;
+    margin-left: auto;
+    line-height: 25px;
+    text-align: center;
+}

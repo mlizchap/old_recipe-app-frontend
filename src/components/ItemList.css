@@ -1,0 +1,29 @@
+.add {
+    background-color: #f3c0c7;
+    color: #2f4d7e;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.add:hover {
+    background-color: #fac2ca;
+}
+
+img {
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.itemList {
+    /* width: 30%; */
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 40px;
+    /* border: 1px solid #2f4d7e; */
+    border-radius: 3px;
+}
+
+.dir {
+    margin-top: 30px;
+}

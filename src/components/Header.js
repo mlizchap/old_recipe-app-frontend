@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import './Header.css';
+import { Link } from 'react-router-dom';
 
 class Header extends Component {
     constructor(props) {
@@ -8,7 +10,7 @@ class Header extends Component {
     render() {
         return (
             <div className="header">
-                Recipe App
+                <Link to="/"><h3>Recipe App</h3></Link>
             </div>
         );
     }
